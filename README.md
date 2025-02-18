@@ -1,2 +1,2 @@
 # vite-react-demo
-vite+react+react-router+typescript
+vite+react18+react-router+typescript+zustand
